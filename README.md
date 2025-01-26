@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile
-<h1>Welcome to My GitHub Profile</h1>
-<img src="https://media.giphy.com/media/B9LG4ITb3AxJC/giphy.gif?cid=ecf05e47z5cl7mwy8mp9v277mljegn37zb5jwl2f8aq1xytf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Baymax Hello" width="800" style="display: block; margin: 0 auto;">
+<img src="https://media.giphy.com/media/B9LG4ITb3AxJC/giphy.gif?cid=ecf05e47z5cl7mwy8mp9v277mljegn37zb5jwl2f8aq1xytf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Baymax Hello" width="600" style="display: block; margin: 0 auto;">
 
 ## About Me
 Hi! I'm [Anya], a passionate developer with interests in [Your Interests]. Here's a quick overview of what I do:
