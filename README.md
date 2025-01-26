@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
-
-![Baymax Hello](https://media.giphy.com/media/C46EeKCUKxU3e/giphy.gif)
+<h1>Welcome to My GitHub Profile</h1>
+<img src="https://media.giphy.com/media/C46EeKCUKxU3e/giphy.gif" alt="Baymax Hello" width="400" style="display: block; margin: 0 auto;">
 
 ## About Me
 Hi! I'm [Anya], a passionate developer with interests in [Your Interests]. Here's a quick overview of what I do:
