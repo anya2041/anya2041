@@ -1,8 +1,9 @@
 # Welcome to My GitHub Profile
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=hi!)
+![Baymax Hello](https://media.giphy.com/media/C46EeKCUKxU3e/giphy.gif)
+
 ## About Me
-Hi! I'm [Your Name], a passionate developer with interests in [Your Interests]. Here's a quick overview of what I do:
+Hi! I'm [Anya], a passionate developer with interests in [Your Interests]. Here's a quick overview of what I do:
 - 🔭 Working on [Your Current Project]
 - 🌱 Learning [Skills/Technologies]
 - 💬 Let's connect and collaborate!
