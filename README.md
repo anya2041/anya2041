@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Explore%20my%20projects%20and%20work&descAlign=50&descAlignY=60)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=hello%there)
 ## About Me
 Hi! I'm [Your Name], a passionate developer with interests in [Your Interests]. Here's a quick overview of what I do:
 - 🔭 Working on [Your Current Project]
