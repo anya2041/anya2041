@@ -34,12 +34,7 @@ Programming: [Your Languages/Technologies]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45" />
 </p>
-                            
-</p>
-
-## Projects
-- [Project Name 1](#): Description or link to project.
-- [Project Name 2](#): Description or link to project.
+[![Anya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anya2041)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - 📫 Email: [Your Email]
