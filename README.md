@@ -7,5 +7,5 @@
   </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anya2041)](https://git.io/streak-stats)
+
 
